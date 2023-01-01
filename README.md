@@ -5,6 +5,8 @@
 - 카테고리를 나눠서 API 호출하기
 
 ## 결과
+![image](https://user-images.githubusercontent.com/90260242/210165718-3f4126d1-17f9-49b6-84af-d5951230eea0.png)
+
 - 비동기 작업에 대한 전반적인 이해
 - src-components 폴더에 전반적인 기능을 구현
 
